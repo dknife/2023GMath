@@ -20,7 +20,7 @@
 
 ### 실습 1 - 파이썬 프로그래밍 
 
-[Lab00-1 파이썬 기초](https://github.com/dknife/2023GMath/blob/main/Lab/Lab00/Basics)
+[Lab00-1 파이썬 기초](https://github.com/dknife/2023GMath/Lab/Lab00/Basics)
 
 [[Lab00-1 기초|[[]]
 
