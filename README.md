@@ -17,3 +17,15 @@
 [Python](https://www.python.org/downloads/) download and install
 
 [Visual Studio Code](https://code.visualstudio.com/) download and install
+
+### 실습 1 - 파이썬 프로그래밍 
+
+[[Lab00-1 기초|2023GameMathLab0001_basics]]
+
+[[Lab00-2 main 함수 사용하기|2023GameMathLab0002_basicsMain]]
+
+[[Lab00-3 간단한 벡터 연산 구현|2023GameMathLab0003_VectorBasics]]
+
+[[Lab00-4 Numpy를 이용한 간단한 벡터 연산|2023GameMathLab0004_VectorBasicsWithNumpy]]
+
+[[Lab00-5 벡터 사잇각 계산|2023GameMathLab0005_angleBetweenVectors]]
