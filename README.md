@@ -7,5 +7,5 @@
 
 ### 강의 노트 (전체)
 
-
+[강의 노트](https://github.com/dknife/2023GMath/blob/main/LectureNotes/LectureNotesAll_GameMath2023.pdf)
 
