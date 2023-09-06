@@ -20,7 +20,7 @@
 
 ### 실습 1 - 파이썬 프로그래밍 
 
-[Lab00-1 기초|2023GameMathLab0001_basics]
+[[Lab00-1 기초|[[2023GameMathLab0001_basics]]
 
 [[Lab00-2 main 함수 사용하기|2023GameMathLab0002_basicsMain]]
 
