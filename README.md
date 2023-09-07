@@ -20,9 +20,9 @@
 
 ### 실습 1 - 파이썬 프로그래밍 
 
-[Lab00-1 파이썬 기초](https://github.com/dknife/2023GMath/blob/main/Lab/Lab00/00_basics.py)
+[Lab00-1 파이썬 기초](https://github.com/dknife/2023GMath/blob/main/Lab/Lab00/01_basics.py)
 
-[[Lab00-1 기초|[[]]
+[Lab00-1 기초|[[]]
 
 [[Lab00-2 main 함수 사용하기|2023GameMathLab0002_basicsMain]]
 
