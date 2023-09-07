@@ -24,7 +24,7 @@
 
 [Lab00-2 함수](https://github.com/dknife/2023GMath/blob/main/Lab/Lab00/02_function.py)
 
-[Lab00-3 간단한 벡터 연산](https://github.com/dknife/2023GMath/blob/main/Lab/Lab00/03_vector.py)
+[Lab00-3 간단한 벡터 연산](https://github.com/dknife/2023GMath/blob/main/Lab/Lab00/03_vectors.py)
 
 [Lab00-4 넘파이](https://github.com/dknife/2023GMath/blob/main/Lab/Lab00/04_numpy.py)
 
