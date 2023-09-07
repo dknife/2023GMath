@@ -22,12 +22,11 @@
 
 [Lab00-1 파이썬 기초](https://github.com/dknife/2023GMath/blob/main/Lab/Lab00/01_basics.py)
 
-[Lab00-1 기초|[[]]
+[Lab00-2 함수](https://github.com/dknife/2023GMath/blob/main/Lab/Lab00/02_function.py)
 
-[[Lab00-2 main 함수 사용하기|2023GameMathLab0002_basicsMain]]
+[Lab00-3 간단한 벡터 연산](https://github.com/dknife/2023GMath/blob/main/Lab/Lab00/03_vector.py)
 
-[[Lab00-3 간단한 벡터 연산 구현|2023GameMathLab0003_VectorBasics]]
+[Lab00-4 넘파이](https://github.com/dknife/2023GMath/blob/main/Lab/Lab00/04_numpy.py)
 
-[[Lab00-4 Numpy를 이용한 간단한 벡터 연산|2023GameMathLab0004_VectorBasicsWithNumpy]]
+[Lab00-4 벡터 응용 - 사잇각](https://github.com/dknife/2023GMath/blob/main/Lab/Lab00/05_application_vector.py)
 
-[[Lab00-5 벡터 사잇각 계산|2023GameMathLab0005_angleBetweenVectors]]
