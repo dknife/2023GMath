@@ -10,7 +10,7 @@
 
 ### 강의 노트 (전체)
 
-[강의 노트](https://github.com/dknife/2023GMath/blob/main/LectureNotes/LectureNotesAll_GameMath2023.pdf)
+[강의 노트](https://github.com/dknife/2023GMath/raw/main/LectureNotes/LectureNotesAll_GameMath2023.pdf)
 
 #### 실습 환경
 
