@@ -8,9 +8,11 @@
 ### 강의실: 제1정 519
 ### 담당교수 연락처: ymkang @ tu.ac.kr
 
-### 강의 노트 (전체)
+### 강의 노트
 
-[강의 노트](https://github.com/dknife/2023GMath/raw/main/LectureNotes/LectureNotesAll_GameMath2023.pdf)
+[강의 노트 전체 요약](https://github.com/dknife/2023GMath/raw/main/LectureNotes/LectureNotesAll_GameMath2023.pdf)
+
+[강의 1](https://github.com/dknife/2023GMath/raw/main/LectureNotes/%EA%B0%95%EC%9D%981.pdf)
 
 #### 실습 환경
 
