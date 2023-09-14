@@ -36,4 +36,6 @@
 
 [구글 코랩 사이트](https://colab.research.google.com)
 
-[Lab01-01](https://colab.research.google.com/drive/10r7jSGh9kvIHOK6R5tKxphG74rv-FQWr)
+[Lab01-01 코랩, 파이썬 연습](https://colab.research.google.com/drive/10r7jSGh9kvIHOK6R5tKxphG74rv-FQWr)
+
+[Lab01-02 함수 연습](https://colab.research.google.com/drive/124eZOk7_daSHlI55q347Nm9XdeU1SkLa?usp=sharing)
