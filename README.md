@@ -35,3 +35,5 @@
 ### 실습 2 - 구글 코랩 환경
 
 [구글 코랩 사이트](https://colab.research.google.com)
+
+[Lab01-01](https://colab.research.google.com/drive/10r7jSGh9kvIHOK6R5tKxphG74rv-FQWr)
