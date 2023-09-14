@@ -32,6 +32,4 @@
 
 ### 실습 2 - 구글 코랩 환경
 
-[htt](https://colab.research.google.com
-)https://colab.research.google.com
-![image](https://github.com/dknife/2023GMath/assets/8108980/0984fea9-354c-45b1-ada7-1899e0543387)
+[구글 코랩 사이트](https://colab.research.google.com)
