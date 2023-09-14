@@ -41,3 +41,5 @@
 [Lab01-02 함수 연습](https://colab.research.google.com/drive/124eZOk7_daSHlI55q347Nm9XdeU1SkLa?usp=sharing)
 
 [Lab01-03 넘파이 테스트](https://colab.research.google.com/drive/1XodiWAl1ZsDLZg-Pc8NK7H3zbwKskfxX?usp=sharing)
+
+[Lab01-04 벡터 Norm 계산](https://colab.research.google.com/drive/1RdWL9goY8iifxDJHOw-O9_c5IQOj4Elq?usp=sharing)
