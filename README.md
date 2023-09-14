@@ -30,3 +30,8 @@
 
 [Lab00-4 벡터 응용 - 사잇각](https://github.com/dknife/2023GMath/blob/main/Lab/Lab00/05_application_vector.py)
 
+### 실습 2 - 구글 코랩 환경
+
+[htt](https://colab.research.google.com
+)https://colab.research.google.com
+![image](https://github.com/dknife/2023GMath/assets/8108980/0984fea9-354c-45b1-ada7-1899e0543387)
