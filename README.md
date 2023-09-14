@@ -39,3 +39,5 @@
 [Lab01-01 코랩, 파이썬 연습](https://colab.research.google.com/drive/10r7jSGh9kvIHOK6R5tKxphG74rv-FQWr)
 
 [Lab01-02 함수 연습](https://colab.research.google.com/drive/124eZOk7_daSHlI55q347Nm9XdeU1SkLa?usp=sharing)
+
+[Lab01-03 넘파이 테스트](https://colab.research.google.com/drive/1XodiWAl1ZsDLZg-Pc8NK7H3zbwKskfxX?usp=sharing)
