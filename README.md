@@ -22,7 +22,7 @@
 
 [Visual Studio Code](https://code.visualstudio.com/) download and install
 
-### 실습 1 - 파이썬 프로그래밍 
+### 실습 0 - 파이썬 프로그래밍 
 
 [Lab00-1 파이썬 기초](https://github.com/dknife/2023GMath/blob/main/Lab/Lab00/01_basics.py)
 
@@ -34,7 +34,7 @@
 
 [Lab00-4 벡터 응용 - 사잇각](https://github.com/dknife/2023GMath/blob/main/Lab/Lab00/05_application_vector.py)
 
-### 실습 2 - 구글 코랩 환경
+### 실습 1 - 구글 코랩 환경
 
 [구글 코랩 사이트](https://colab.research.google.com)
 
@@ -45,3 +45,7 @@
 [Lab01-03 넘파이 테스트](https://colab.research.google.com/drive/1XodiWAl1ZsDLZg-Pc8NK7H3zbwKskfxX?usp=sharing)
 
 [Lab01-04 벡터 Norm 계산](https://colab.research.google.com/drive/1RdWL9goY8iifxDJHOw-O9_c5IQOj4Elq?usp=sharing)
+
+### 실습 2 - 벡터와 행렬의 가시화
+
+[Lab02-01 벡터와 정규화](https://colab.research.google.com/drive/1A-ifDlxepqKgNNaI-LTPjnJLxASN2oF6?usp=sharing)
