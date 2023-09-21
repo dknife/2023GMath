@@ -51,3 +51,5 @@
 [Lab02-01 벡터와 정규화](https://colab.research.google.com/drive/1A-ifDlxepqKgNNaI-LTPjnJLxASN2oF6?usp=sharing)
 
 [Lab02-02 행렬의 가시화](https://colab.research.google.com/drive/1K0ip0EzxiNb8LER1zcHZT90KRcwqptsV)
+
+[Lab02-03 3차원 벡터 가시화](https://colab.research.google.com/drive/17XiVfkliQ2cEiakjLbwmGczU7AKP3tXI?usp=sharing)
