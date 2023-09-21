@@ -49,3 +49,5 @@
 ### 실습 2 - 벡터와 행렬의 가시화
 
 [Lab02-01 벡터와 정규화](https://colab.research.google.com/drive/1A-ifDlxepqKgNNaI-LTPjnJLxASN2oF6?usp=sharing)
+
+[Lab02-02 행렬의 가시화](https://colab.research.google.com/drive/1K0ip0EzxiNb8LER1zcHZT90KRcwqptsV)
