@@ -16,6 +16,9 @@
 
 [강의 2](https://github.com/dknife/2023GMath/raw/main/LectureNotes/%EA%B0%95%EC%9D%982.pdf)
 
+[강의 3](https://github.com/dknife/2023GMath/raw/main/LectureNotes/%EA%B0%95%EC%9D%983.pdf)
+
+
 #### 실습 환경
 
 [Python](https://www.python.org/downloads/) download and install
