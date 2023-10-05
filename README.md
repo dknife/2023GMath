@@ -60,3 +60,5 @@
 ### 실습 3 - 벡터의 스칼라 곱: 내적
 
 [Lab03-01 내적의 계산](https://colab.research.google.com/drive/1I8KgpKJsUzJA0HT0grEf734QxJS2zTob)
+
+[Lab03-02 비슷한 방향 찾기](https://colab.research.google.com/drive/1DBa4KnStZ9tqxFAmR090BbVoGNP5vAlu?usp=sharing)
