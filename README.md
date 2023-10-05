@@ -56,3 +56,7 @@
 [Lab02-02 행렬의 가시화](https://colab.research.google.com/drive/1K0ip0EzxiNb8LER1zcHZT90KRcwqptsV)
 
 [Lab02-03 3차원 벡터 가시화](https://colab.research.google.com/drive/17XiVfkliQ2cEiakjLbwmGczU7AKP3tXI?usp=sharing)
+
+### 실습 3 - 벡터의 곱: 내적
+
+
