@@ -62,3 +62,5 @@
 [Lab03-01 내적의 계산](https://colab.research.google.com/drive/1I8KgpKJsUzJA0HT0grEf734QxJS2zTob)
 
 [Lab03-02 비슷한 방향 찾기](https://colab.research.google.com/drive/1DBa4KnStZ9tqxFAmR090BbVoGNP5vAlu?usp=sharing)
+
+[Lab03-03 그림자 드리우기](https://colab.research.google.com/drive/1fCwevxz-tTwBVG6pGe74GdvGHiPS3ko2?usp=sharing)
