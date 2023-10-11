@@ -18,6 +18,8 @@
 
 [강의 3](https://github.com/dknife/2023GMath/raw/main/LectureNotes/%EA%B0%95%EC%9D%983.pdf)
 
+보조자료 [내적의 기하적 성질에 대한 증명](https://github.com/dknife/2023GMath/blob/main/LectureNotes/DotProduct_Proof.pdf)
+
 
 #### 실습 환경
 
