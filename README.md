@@ -72,3 +72,9 @@
 [Lab03-02 비슷한 방향 찾기](https://colab.research.google.com/drive/1DBa4KnStZ9tqxFAmR090BbVoGNP5vAlu?usp=sharing)
 
 [Lab03-03 그림자 드리우기](https://colab.research.google.com/drive/1fCwevxz-tTwBVG6pGe74GdvGHiPS3ko2?usp=sharing)
+
+### 수시고사 1
+
+주어진 점 (2.8, 2.8), (-3.0, 0.9), (-0.3, -1.9)을 꼭지점으로 하는 삼각형의 세 내각을 구하라
+
+[수시고사 1 정답](https://colab.research.google.com/drive/1bNITliifnvHkNKiLlZzUbEaZrgvi8zjN?usp=sharing)
