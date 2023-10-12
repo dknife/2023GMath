@@ -78,3 +78,7 @@
 주어진 점 (2.8, 2.8), (-3.0, 0.9), (-0.3, -1.9)을 꼭지점으로 하는 삼각형의 세 내각을 구하라
 
 [수시고사 1 정답](https://colab.research.google.com/drive/1bNITliifnvHkNKiLlZzUbEaZrgvi8zjN?usp=sharing)
+
+### 실습 4 - 가위곱
+
+[Lab04-01 Vector 가시화](https://colab.research.google.com/drive/1uEpCkBcF00s4fJU2yMpVv64621TpagVh?usp=sharing)
