@@ -20,7 +20,7 @@
 
 [강의 4](https://github.com/dknife/2023GMath/raw/main/LectureNotes/%EA%B0%95%EC%9D%984.pdf)
 
-
+[강의 5](https://github.com/dknife/2023GMath/raw/main/LectureNotes/%EA%B0%95%EC%9D%985.pdf)
 
 보조자료 [점곱의 기하적 성질에 대한 증명](https://github.com/dknife/2023GMath/blob/main/LectureNotes/DotProduct_Proof.pdf)
 
