@@ -89,3 +89,7 @@
 ### 수시고사 2
 
 주어진 점 (2.8, 2.8), (-3.0, 0.9), (-0.3, -1.9)을 꼭지점으로 하는 삼각형의 면적을 구하라
+
+### 실습 5 - 수시고사 정답과 벡터 응용 실습
+
+[수시고사 2의 정답과 벡터 응용 실습](https://colab.research.google.com/drive/1oMbLaaUyK_f0gyyhTQn66GUaMLdVMTNy?usp=sharing)
