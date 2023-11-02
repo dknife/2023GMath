@@ -28,9 +28,13 @@
 
 보조자료 [가위곱의 기하적 성질에 대한 증명](https://github.com/dknife/2023GMath/blob/main/LectureNotes/CrossProduct_Proof.pdf)
 
-### 수시고사 점수
+### 평가 결과
 
 [수시고사 1](https://github.com/dknife/2023GMath/wiki/2023GameMath_quiz01)
+
+[수시고사 2](https://github.com/dknife/2023GMath/wiki/2023GameMath_quiz02)
+
+[중간고사](https://github.com/dknife/2023GMath/wiki/2023GameMath_midterm)
 
 #### 실습 환경
 
