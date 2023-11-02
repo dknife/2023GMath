@@ -100,8 +100,11 @@
 
 [수시고사 2의 정답과 벡터 응용 실습](https://colab.research.google.com/drive/1oMbLaaUyK_f0gyyhTQn66GUaMLdVMTNy?usp=sharing)
 
-### 중간고사 - 중간고사 실기 문제 정답
+### 실습 6 - 중간고사 - 중간고사 실기 문제 정답
 
 [중간고사 실기 문제 정답](https://colab.research.google.com/drive/1uBSWUKkBU9qycycvc1KMLJo3yoJpVGnL?usp=sharing)
 
 
+### 실습 7 - 행렬의 가시화
+
+[Lab07-01 행렬 가시화 함수](https://colab.research.google.com/drive/12N8pgFGfsLfxOdLIdpNE-qKDE_Os257s?usp=sharing)
