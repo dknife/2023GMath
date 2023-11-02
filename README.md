@@ -99,3 +99,9 @@
 ### 실습 5 - 수시고사 정답과 벡터 응용 실습
 
 [수시고사 2의 정답과 벡터 응용 실습](https://colab.research.google.com/drive/1oMbLaaUyK_f0gyyhTQn66GUaMLdVMTNy?usp=sharing)
+
+### 중간고사 - 중간고사 실기 문제 정답
+
+[중간고사 실기 문제 정답](https://colab.research.google.com/drive/1uBSWUKkBU9qycycvc1KMLJo3yoJpVGnL?usp=sharing)
+
+
