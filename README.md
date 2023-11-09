@@ -38,6 +38,11 @@
 
 [중간고사](https://github.com/dknife/2023GMath/wiki/2023GameMath_midterm)
 
+### 과제
+
+[과제 1] 강의노트 7을 참고하여 행렬의 행렬식을 계산하는 함수를 구현해 본다. 구글 코랩 코드로 작성하여 당일 보여 준다. 코드에 자신의 학번과 이름을 포함하라.
+
+
 #### 실습 환경
 
 [Python](https://www.python.org/downloads/) download and install
