@@ -114,3 +114,6 @@
 ### 실습 8 - 행렬과 벡터의 곱
 
 [Lab08-01 행렬과 점의 가시화](https://colab.research.google.com/drive/1DZDDcA6G_97q4X-CHwM0rYX7qNVluMQY?usp=sharing)
+
+[Lab08-02 2x2 행렬과 정점의 변환 - 정리](https://colab.research.google.com/drive/1lxjLz7BMbEeTwo6lbtndnhSzoLNYXSME#scrollTo=qg2Q_qSwpy87)
+
