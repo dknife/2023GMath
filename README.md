@@ -110,3 +110,7 @@
 ### 실습 7 - 행렬의 가시화
 
 [Lab07-01 행렬 가시화 함수](https://colab.research.google.com/drive/12N8pgFGfsLfxOdLIdpNE-qKDE_Os257s?usp=sharing)
+
+### 실습 8 - 행렬과 벡터의 곱
+
+[Lab08-01 행렬과 점의 가시화](https://colab.research.google.com/drive/1DZDDcA6G_97q4X-CHwM0rYX7qNVluMQY?usp=sharing)
