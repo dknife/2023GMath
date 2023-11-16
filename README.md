@@ -24,7 +24,7 @@
 
 [강의 6 행렬기본연산](https://github.com/dknife/2023GMath/raw/main/LectureNotes/%EA%B0%95%EC%9D%986.pdf)
 
-[강의 7 행렬식](https://github.com/dknife/2023GMath/raw/main/LectureNotes/%EA%B0%95%EC%9D%987.pdf)
+[강의 7 행렬식과 역행렬](https://github.com/dknife/2023GMath/raw/main/LectureNotes/%EA%B0%95%EC%9D%987.pdf)
 
 보조자료 [점곱의 기하적 성질에 대한 증명](https://github.com/dknife/2023GMath/blob/main/LectureNotes/DotProduct_Proof.pdf)
 
