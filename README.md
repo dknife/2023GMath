@@ -122,3 +122,7 @@
 
 [Lab08-02 2x2 행렬과 정점의 변환 - 정리](https://colab.research.google.com/drive/1lxjLz7BMbEeTwo6lbtndnhSzoLNYXSME#scrollTo=qg2Q_qSwpy87)
 
+
+### 실습 9 - 행렬식과 역행렬
+
+[Lab09-01 행렬식](https://colab.research.google.com/drive/1TWfIvbnvYIiR6lkgSz9H_8B5YJkusupW?usp=sharing)
