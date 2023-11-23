@@ -129,3 +129,7 @@
 ### 실습 9 - 행렬식과 역행렬
 
 [Lab09-01 행렬식](https://colab.research.google.com/drive/1TWfIvbnvYIiR6lkgSz9H_8B5YJkusupW?usp=sharing)
+
+### 실습 10 - 변환
+
+[Lab10-01 수시고사 풀이 및 변환실습](https://colab.research.google.com/drive/1zmWLsADSmiZiX8Ya24I3kFtvEEUU_GIn?usp=sharing)
