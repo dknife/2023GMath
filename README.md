@@ -28,6 +28,9 @@
 
 [강의 8 변환행렬](https://github.com/dknife/2023GMath/raw/main/LectureNotes/%EA%B0%95%EC%9D%988.pdf)
 
+[강의 9 복소수와 변환](https://github.com/dknife/2023GMath/blob/main/LectureNotes/%EA%B0%95%EC%9D%989.pdf)
+
+
 보조자료 [점곱의 기하적 성질에 대한 증명](https://github.com/dknife/2023GMath/blob/main/LectureNotes/DotProduct_Proof.pdf)
 
 보조자료 [가위곱의 기하적 성질에 대한 증명](https://github.com/dknife/2023GMath/blob/main/LectureNotes/CrossProduct_Proof.pdf)
