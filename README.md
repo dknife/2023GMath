@@ -136,3 +136,7 @@
 ### 실습 10 - 변환
 
 [Lab10-01 수시고사 풀이 및 변환실습](https://colab.research.google.com/drive/1zmWLsADSmiZiX8Ya24I3kFtvEEUU_GIn?usp=sharing)
+
+### 실습 11 - 복소수와 복소공간, 변환
+
+[Lab11-01 복소수와 복소공간](https://colab.research.google.com/drive/1uglkaFVL-msS10jjybVvvEnxfE0BDUVV?usp=sharing)
